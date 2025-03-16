@@ -1,0 +1,22 @@
+  <svg
+    width="32" 
+    height="32"
+    viewBox="0 0 100 100"
+    fill="black"
+    xmlns="http://www.w3.org/2000/svg"
+    class="iconify iconify--logos"
+  >
+    <style>.logo { font: bold 40px sans-serif; }</style>
+    <circle cx="50" cy="50" r="45" stroke="white" strokeWidth="2" />
+    <g transform="translate(50,50) rotate(-30) translate(-50,-50)">
+      <text
+        x="20"
+        y="65"
+        fill="white"
+        textAnchor="middle"
+        class="logo"
+      >
+        BH
+      </text>
+    </g>
+  </svg>
